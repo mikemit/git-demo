@@ -13,7 +13,7 @@ ${SEARCH_TERM} =  Ferrari 458
 *** Test Cases ***
 User can search for poducts
     [Documentation]  This is some basic info about the test
-    [Tags]  Smoke extra
+    [Tags]  Smoke extra 2e versie
     Amazon.Search for products
 
 User must sign in to check out
